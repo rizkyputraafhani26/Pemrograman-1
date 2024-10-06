@@ -1,1 +1,17 @@
+Bahasa C :
 
+#include<stdio.h>
+
+int main()
+{
+    printf("Selamat Pagi, Rizky Putra Afhani\n");
+    printf("Selamat Siang, Rizky Putra Afhani\n");
+    printf("Selamat Malam, Rizky Putra Afhani\n");
+
+return(0);
+            }
+
+Bahasa Python :
+print("Selamat Pagi, Rizky Putra Afhani") 
+print("Selamat Siang, Rizky Putra Afhani")
+print("Selamat Malam, Rizky Putra Afhani")
