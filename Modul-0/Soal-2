@@ -12,6 +12,7 @@ return(0);
             }
 
 Bahasa Python :
+
 print("Selamat Pagi, Rizky Putra Afhani") 
 print("Selamat Siang, Rizky Putra Afhani")
 print("Selamat Malam, Rizky Putra Afhani")
