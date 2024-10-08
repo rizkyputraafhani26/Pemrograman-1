@@ -1,1 +1,12 @@
+Bahasa C :
 
+#include<stdio.h>
+
+int main(){
+        printf("Andi Berkata \"Saya Pasti Bisa\"   ");
+return(0);
+}
+
+Bahasa Python :
+
+print("Andi Berkata \"Saya Pasti Bisa\"")
