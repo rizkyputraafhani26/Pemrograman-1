@@ -1,1 +1,29 @@
+Bahasa C :
+
+#include<stdio.h>
+
+int main(){
+
+    printf("##############################\n");
+    printf("#                            #\n");
+    printf("#     Rizky Putra Afhani     #\n");
+    printf("#       2410817210013        #\n");
+    printf("#                            #\n");
+    printf("##############################\n");
+
+
+
+
+
+return(0);
+}
+
+Bahasa Python :
+
+print("##############################")
+print("#                            #")
+print("#     Rizky Putra Afhani     #")
+print("#       2410817210013        #")
+print("#                            #")
+print("##############################")    
 
